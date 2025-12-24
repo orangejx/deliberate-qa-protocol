@@ -1,5 +1,7 @@
 # Deliberate Q&A Protocol
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 A **Q&A-only Project Ruleset for Cursor** that transforms Cursor's default behavior from a code-writing assistant into a **deliberate technical discussion and reasoning partner**.
 
 ## Core Intent

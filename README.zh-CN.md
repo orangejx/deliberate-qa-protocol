@@ -1,5 +1,7 @@
 # Deliberate Q&A Protocol
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 一个**仅用于问答的 Cursor 项目规则集**，将 Cursor 的默认行为从代码编写助手转变为**深思熟虑的技术讨论与推理伙伴**。
 
 ## 核心意图
