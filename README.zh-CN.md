@@ -89,11 +89,11 @@ Cursor 不得假设：
 
 ## 许可证
 
-MIT License（需要署名）
+MIT License
 
 ## 作者
 
-Aldrich J. Xing
+[Aldrich J. Xing](https://wlms.dev)
 
 ## 来源
 

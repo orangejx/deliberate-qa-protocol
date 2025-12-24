@@ -89,11 +89,11 @@ Copy the rules file (`.cursor/rules/deliberate-qa-protocol.mdc`) to your workspa
 
 ## License
 
-MIT License (attribution required)
+MIT License
 
 ## Author
 
-Aldrich J. Xing
+[Aldrich J. Xing](https://wlms.dev)
 
 ## Source
 
